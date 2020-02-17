@@ -1,7 +1,7 @@
 # Repository Counter-Strike 1.6 for BSPanel
 
-Available builds
-1 → ReHLDS
-2 → 7559
-3 → 6153
+Available builds <br>
+1 → ReHLDS<br>
+2 → 7559<br>
+3 → 6153<br>
 4 → 5787
